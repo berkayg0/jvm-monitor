@@ -38,12 +38,12 @@ This tool provides a clean and responsive dashboard to track critical system met
 * **ManagementFactory API:** For extracting deep JVM metrics.
 * **XChart:** For rendering high-performance, real-time charts.
 
-## Getting Started
+## 🚀 Getting Started
 
 You don't need to compile the code to use the tool! 
 
 1. Go to the [Releases](../../releases) page.
-2. Download the latest `jvm-monitor.jar` file.
+2. Download the latest `jvm_monitor.jar` file.
 3. Double-click the `.jar` file, or run it via terminal:
    ```bash
-   java -jar jvm-monitor.jar
+   java -jar jvm_monitor.jar
