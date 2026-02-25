@@ -18,19 +18,19 @@ This tool provides a clean and responsive dashboard to track critical system met
 ## 📸 Screenshots
 
 ### Memory Tab
-<img width="983" height="687" alt="Image" src="https://github.com/user-attachments/assets/d55f1dd1-c204-4307-aff2-2ecbace16d85" />
+<img width="981" height="689" alt="Image" src="https://github.com/user-attachments/assets/a68806a7-cde6-4fb4-8cfc-5bd2270013e3" />
 
 ### GC Tab
 <img width="980" height="688" alt="Image" src="https://github.com/user-attachments/assets/a0a61098-9013-476c-8159-6533774cf3c2" />
 
 ### Thread Tab
-<img width="983" height="688" alt="Image" src="https://github.com/user-attachments/assets/8e1b2a6f-3240-48f7-9f94-75aca04558ec" />
+<img width="980" height="688" alt="Image" src="https://github.com/user-attachments/assets/7323e9a7-6efa-4162-9063-a12033bb7b15" />
 
 ### Class Tab
-<img width="981" height="688" alt="Image" src="https://github.com/user-attachments/assets/86f521c0-9891-46de-a6e3-d2d575bb17fa" />
+<img width="980" height="690" alt="Image" src="https://github.com/user-attachments/assets/6469ad39-7bae-434a-8288-6e409b1b7328" />
 
 ### CPU Tab
-<img width="983" height="689" alt="Image" src="https://github.com/user-attachments/assets/b2f400ad-946f-4da2-b0f9-bf33a872a007" />
+<img width="980" height="687" alt="Image" src="https://github.com/user-attachments/assets/846a19e8-daa7-49d8-9e8b-a017665be4b4" />
 
 ## 🛠️ Built With
 
